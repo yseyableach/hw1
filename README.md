@@ -14,7 +14,7 @@ http://127.0.0.1:5000/apidocs
     ```
 - 利用以下指令執行後端
     ```
-    docker run -p 5000:5000 myflaskapp
+    docker run -p 5000:5000 jayyyyyyu/hw1:v1
     ```
 
 
